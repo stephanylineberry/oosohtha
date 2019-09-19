@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eideirakul.martinboksa.eu/sitemap.xml
